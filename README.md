@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @osmantuzcuMC
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on MegaCode
+- 📫 How to reach me osman.tuzcu@megacode.com.tr
